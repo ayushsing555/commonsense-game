@@ -1,0 +1,23 @@
+td{
+    border: 2px solid rgb(135, 146, 251);
+    padding: 20px;
+    color: blue;
+    font-weight: bold;
+    font-size: larger;
+    text-transform: uppercase;
+}
+.container{
+    display: flex;
+    margin-left: 550px;
+    align-items: center; 
+    /* justify-items: center; */
+}
+button:hover{
+    background-color: rgb(78, 78, 238);
+    cursor: pointer;
+}
+
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: crimson;
+}
